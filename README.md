@@ -1,6 +1,8 @@
 # igmobil
 Calculate intergenerational mobility analysis indices for continuous and discrete variables Use igmobil With STATA 19
 
+https://www.youtube.com/watch?v=E2h-eeh65YY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
